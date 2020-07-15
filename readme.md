@@ -5,6 +5,8 @@ cd yz-htb
 chmod +x install.sh
 sudo ./install.sh
 source ~/.bashrc
+cd ..
+rm -rf yz-htb
 ```
 
 # What's this ?
